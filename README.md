@@ -77,7 +77,7 @@ This project simulates a real-world retail demand forecasting system used by e-c
 - VS Code
 - Git & GitHub
 
-## ⚙️ How It Works
+## How It Works
 
 ### Step 1 — Data Preparation
 - Load Superstore Sales dataset
