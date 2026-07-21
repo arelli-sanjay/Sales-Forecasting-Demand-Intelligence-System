@@ -1,4 +1,4 @@
-# Sales Forecasting & Demand Intelligence System
+# Sales Forecasting & Demand Intelligence System 
 
 ## Overview
 
